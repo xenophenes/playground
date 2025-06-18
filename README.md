@@ -48,9 +48,32 @@ We have a variety of download options available to make it quick and easy to sta
 
 ## Get started
 
+Self-hosting pgEdge? [Find the installation instructions here.](docs.pgedge.com/platform/installing_pgedge) 
+_TODO: note any licensing restrictions here, and link to them._
+
+Or, thinking of deploying in the cloud? [Learn more about pgEdge Cloud deployments here.](https://docs.pgedge.com/cloud)
+
 ## Developer resources
 
+- [Blog](https://www.pgedge.com/blog)
+- [FAQ](https://www.pgedge.com/resources/faq)
+- [Demos](https://www.pgedge.com/demo-video)
+- [YouTube](https://www.youtube.com/@pgEdge)
+
 ## Contact us, anytime
+
+We provide [24/7 customer service](https://www.pgedge.com/support) for customers with thanks to our amazing team of experts, that includes contributors to the PostgreSQL ecosystem. 
+
+If you have any specific questions about pgEdge in general, you can always [get in touch](https://www.pgedge.com/contact) and we're happy to help.
+
+Otherwise, for technical questions, we're active on [Discord](https://discord.com/invite/pgedge/login) and are happy to help answer any queries there.
+
+_Follow us on social_:
+
+- [LinkedIn](https://www.linkedin.com/company/pgedge/)
+- [Mastodon](https://mastodon.social/@pgEdgeDistributedPostgres)
+- [Discord](https://discord.com/invite/pgedge/login)
+- [X](https://twitter.com/pgEdgeInc)
 
 # Pinned
 
