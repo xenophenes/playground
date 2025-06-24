@@ -49,7 +49,6 @@ We have a variety of download options available to make it quick and easy to sta
 ## Get started
 
 Self-hosting pgEdge? [Find the installation instructions here.](docs.pgedge.com/platform/installing_pgedge) 
-_TODO: note any licensing restrictions here, and link to them._
 
 Or, thinking of deploying in the cloud? [Learn more about pgEdge Cloud deployments here.](https://docs.pgedge.com/cloud)
 
